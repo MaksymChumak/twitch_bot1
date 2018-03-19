@@ -1,1 +1,1 @@
-# twitch_bot1
+# A simple twitch bot
